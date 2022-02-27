@@ -1,0 +1,44 @@
+
+/* Desctop  */
+
+@media only screan and (max-width: 1200px) {
+
+}
+
+@media only screan and (max-width: 992px) {
+
+}
+
+@media only screan and (max-width: 768px) {
+
+}
+
+@media only screan and (max-width: 480px) {
+
+}
+
+@media only screan and (max-width: 320px) {
+
+}
+
+/* Mobile  */
+
+@media only screan and (min-width: 1200px) {
+
+}
+
+@media only screan and (min-width: 992px) {
+
+}
+
+@media only screan and (min-width: 768px) {
+
+}
+
+@media only screan and (min-width: 480px) {
+
+}
+
+@media only screan and (min-width: 320px) {
+
+}
